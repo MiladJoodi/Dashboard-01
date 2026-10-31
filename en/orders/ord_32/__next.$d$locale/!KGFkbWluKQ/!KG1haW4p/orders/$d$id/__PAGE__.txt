@@ -10,12 +10,12 @@ b:"/Dashboard-01/_next/static/chunks/0ww19xql509np.js"
 c:"/Dashboard-01/_next/static/chunks/1pkhoon-7dmdm.js"
 d:"/Dashboard-01/_next/static/chunks/43tfqt3jce4rp.js"
 e:"/Dashboard-01/_next/static/chunks/0sb6q_vuwoo96.js"
-f:"/Dashboard-01/_next/static/chunks/0kvo_cn4yfxlr.js"
-10:"/Dashboard-01/_next/static/chunks/0i5mmza9z_uxk.js"
+f:"/Dashboard-01/_next/static/chunks/0d1elanjsahra.js"
+10:"/Dashboard-01/_next/static/chunks/1vc8l47zdegxh.js"
 11:"/Dashboard-01/_next/static/chunks/0f45oiz_bzle3.js"
-12:"/Dashboard-01/_next/static/chunks/0d1elanjsahra.js"
-13:"/Dashboard-01/_next/static/chunks/29rjk83k474ql.js"
-14:"/Dashboard-01/_next/static/chunks/2atw7-4y7f0x2.js"
+12:"/Dashboard-01/_next/static/chunks/29rjk83k474ql.js"
+13:"/Dashboard-01/_next/static/chunks/0i5mmza9z_uxk.js"
+14:"/Dashboard-01/_next/static/chunks/0uoxdgs8fl0j3.js"
 15:I[97947,["$7","$8","$9","$a","$b","$c","$d","$e","$f","$10","$11","$12","$13","$14"],"default"]
 16:I[39756,["$4"],"default"]
 17:I[37457,["$4"],"default"]
@@ -37,9 +37,9 @@ f:"/Dashboard-01/_next/static/chunks/0kvo_cn4yfxlr.js"
 20:[["children",{"s":{"n":"id","t":"d","k":"ord_32","s":["new"]},"h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","template":["$","$L17",null,{}]}]]}],"p":"$@21","v":"$1d","s":"$1a"},"c":"$Q22"}]]
 1e:[["children",{"s":"orders","h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","template":["$","$L17",null,{}]}]]}],"p":"$@1f","v":"$1d","s":"$1a"},"c":"$Q20"}]]
 1b:[["children",{"s":"(main)","h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","template":["$","$L17",null,{}]}]]}],"p":"$@1c","v":"$1d","s":"$1a"},"c":"$Q1e"}]]
-2:[["children",{"s":"(admin)","h":64,"d":{"r":["$","$3","c",{"children":[[["$","script","script-0",{"src":"/Dashboard-01/_next/static/chunks/0sb6q_vuwoo96.js","async":true}],["$","script","script-1",{"src":"/Dashboard-01/_next/static/chunks/0kvo_cn4yfxlr.js","async":true}],["$","script","script-2",{"src":"/Dashboard-01/_next/static/chunks/0i5mmza9z_uxk.js","async":true}],["$","script","script-3",{"src":"/Dashboard-01/_next/static/chunks/0f45oiz_bzle3.js","async":true}],["$","script","script-4",{"src":"/Dashboard-01/_next/static/chunks/0d1elanjsahra.js","async":true}],["$","script","script-5",{"src":"/Dashboard-01/_next/static/chunks/29rjk83k474ql.js","async":true}],["$","script","script-6",{"src":"/Dashboard-01/_next/static/chunks/2atw7-4y7f0x2.js","async":true}]],["$","$L6",null,{"Component":"$15","slots":{"children":["$","$L16",null,{"parallelRouterKey":"children","template":["$","$L17",null,{}]}]},"serverProvidedParams":{"params":{"locale":"en"},"promises":["$@18"]}}]]}],"p":"$@19","v":null,"s":"$1a"},"c":"$Q1b"}]]
+2:[["children",{"s":"(admin)","h":64,"d":{"r":["$","$3","c",{"children":[[["$","script","script-0",{"src":"/Dashboard-01/_next/static/chunks/0sb6q_vuwoo96.js","async":true}],["$","script","script-1",{"src":"/Dashboard-01/_next/static/chunks/0d1elanjsahra.js","async":true}],["$","script","script-2",{"src":"/Dashboard-01/_next/static/chunks/1vc8l47zdegxh.js","async":true}],["$","script","script-3",{"src":"/Dashboard-01/_next/static/chunks/0f45oiz_bzle3.js","async":true}],["$","script","script-4",{"src":"/Dashboard-01/_next/static/chunks/29rjk83k474ql.js","async":true}],["$","script","script-5",{"src":"/Dashboard-01/_next/static/chunks/0i5mmza9z_uxk.js","async":true}],["$","script","script-6",{"src":"/Dashboard-01/_next/static/chunks/0uoxdgs8fl0j3.js","async":true}]],["$","$L6",null,{"Component":"$15","slots":{"children":["$","$L16",null,{"parallelRouterKey":"children","template":["$","$L17",null,{}]}]},"serverProvidedParams":{"params":{"locale":"en"},"promises":["$@18"]}}]]}],"p":"$@19","v":null,"s":"$1a"},"c":"$Q1b"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":48,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L2c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L2e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$28",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Order Detail | Sono Commerce"}],["$","meta","1",{"name":"description","content":"View and update a Sono Commerce demo order."}],["$","link","2",{"rel":"icon","href":"/Dashboard-01/favicon.ico?favicon.1xz0jmz7i91x5.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L2f","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@30","v":null,"s":"$1a"}},"a":"$@31","u":"$@32","b":"pB5TH6TmBKTggWDYw5dLe"}
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L2c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L2e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$28",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Order Detail | Sono Commerce"}],["$","meta","1",{"name":"description","content":"View and update a Sono Commerce demo order."}],["$","link","2",{"rel":"icon","href":"/Dashboard-01/favicon.ico?favicon.1xz0jmz7i91x5.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L2f","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@30","v":null,"s":"$1a"}},"a":"$@31","u":"$@32","b":"ocDs6Vs8RhT9o60zqSsJr"}
 18:"$2:0:1:d:r:props:children:1:props:serverProvidedParams:params"
 29:null
 32:true

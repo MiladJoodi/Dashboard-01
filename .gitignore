@@ -1,6 +1,4 @@
-﻿# This repo IS the static site. Track everything under _next/.
-
-.DS_Store
+﻿.DS_Store
 Thumbs.db
 Desktop.ini
 .idea/
