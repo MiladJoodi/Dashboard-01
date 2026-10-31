@@ -1,26 +1,14 @@
 ﻿# This repo IS the static site. Track everything under _next/.
 
-# OS
 .DS_Store
 Thumbs.db
 Desktop.ini
-
-# editors
 .idea/
 .vscode/
-*.swp
-*.swo
-*~
-
-# logs
 *.log
-
-# secrets
 .env
 .env.*
 *.pem
-
-# leftover Next source tooling
 node_modules/
 .vercel/
 .next/

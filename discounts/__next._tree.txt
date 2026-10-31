@@ -1,0 +1,10 @@
+:HL["/Dashboard-01/_next/static/chunks/3tpczzb1u-b43.css","style"]
+:HL["/Dashboard-01/_next/static/chunks/1xy-2weywyx-f.css","style"]
+:HL["/Dashboard-01/_next/static/media/2b81eeca71e9850c-s.p.3vm0tq4e-zz_5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Dashboard-01/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":"discounts","h":96,"c":"$Q5"}]]
+3:[["children",{"s":"(main)","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"(admin)","h":64,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":48,"c":"$Q2"}]]
+0:{"b":"pB5TH6TmBKTggWDYw5dLe","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
