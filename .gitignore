@@ -1,4 +1,4 @@
-# This repo IS the static site. Track everything under _next/ (including static/).
+﻿# This repo IS the static site. Track everything under _next/.
 
 # OS
 .DS_Store
@@ -20,7 +20,7 @@ Desktop.ini
 .env.*
 *.pem
 
-# leftover Next source tooling (not used here)
+# leftover Next source tooling
 node_modules/
 .vercel/
 .next/
